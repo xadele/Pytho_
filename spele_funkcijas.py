@@ -26,7 +26,7 @@ from random import randint, shuffle
 
 #------------------------------
 
-
+#/////////////////////
 print(*glazites)
 
 def sajauc(glazites):
