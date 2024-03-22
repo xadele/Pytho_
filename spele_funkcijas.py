@@ -26,7 +26,7 @@ from random import randint, shuffle
 
 #------------------------------
 
-#/////////////////////
+glazites = ["🎁", "🎁", "✨"]
 print(*glazites)
 
 def sajauc(glazites):
