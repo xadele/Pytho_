@@ -1,6 +1,8 @@
 #Importē bibliotēkas.
 from random import randint, shuffle
 
+
+#vvvvvvvvvv
 # print(randint(1,100)) #atrod nejaušu skaitli no dotā intervāla
 
 # saraksts = [1,2,3,4,5]
